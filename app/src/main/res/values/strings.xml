@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">MyAgenda</string>
+    <string name="guardar">guardar</string>
+    <string name="borrar">borrar</string>
+    <string name="introduce_tu_nota">introduce_tu_nota</string>
+    <string name="nota_no_existe">no existe</string>
+    <string name="nota_borrada">nota borrada</string>
+    <string name="nota_creada">nota creada</string>
+    <string name="nota_actualizada">nota actualizada</string>
+    <string name="crea_nota_primero">crea nota primero</string>
 </resources>
